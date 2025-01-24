@@ -25,7 +25,7 @@ Let's build a comprehensive, collaborative resource for the entire machine/deep 
 
 Here is the alphabetical index of the machine/deep learning terms available in this dictionary. Click on a letter to navigate directly to the section with terms starting with that letter.
 
-- [A](#A)
+- [A](https://github.com/themasudur/Machine-Learning-Dictionary/blob/main/A.md)
 - [B](#B)
 - [C](#C)
 - [D](#D)
